@@ -6,7 +6,6 @@ import { counterIncrease, counterDecrease } from './actions/actions';
 class Main extends Component {
 
     render() {
-
         return (
             <div style={{ display: 'flex', justifyContent: 'center' }}>
                 <div>
